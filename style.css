@@ -757,10 +757,11 @@ footer {
   flex-wrap: wrap;
 }
 .multi-links li a {
-  color: white;
+  font-size: 18px !important;
+  color: #ababab;
+
   text-decoration: none;
   line-height: 1.8rem;
-  font-size: 1.2rem;
   font-weight: 300;
   font-family: var(--ff-secondary);
 }
@@ -771,9 +772,10 @@ footer {
 }
 
 .footer-heading {
+  letter-spacing: -1px;
+  font-weight: 300;
   line-height: 1.8rem;
   font-size: 2.2rem;
-  font-weight: 500;
   padding-bottom: 2rem;
   color: white;
   font-family: var(--ff-secondary);
@@ -864,6 +866,8 @@ footer {
 .footer-btm a,
 .footer-btm p {
   font-family: var(--ff-secondary);
+  font-size: 14px;
+  font-weight: 400;
 }
 
 a.e8-link {
@@ -909,11 +913,11 @@ a.e8-link {
     width: 100%;
   }
 
-  .sr_links a {
+  .sr_links span {
     padding-left: 33px !important;
   }
 
-  .sr_links a > svg {
+  .sr_links span > svg {
     left: -4px !important;
   }
 
