@@ -544,7 +544,7 @@ Animation keyframes
 }
 
 .right_side p {
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 400;
   color: #ababab;
   font-family: var(--ff-secondary);
@@ -575,7 +575,7 @@ Animation keyframes
   gap: 0.5rem;
   align-items: center;
   line-height: 1.8rem;
-  font-size: 1.2rem;
+  font-size: 26px;
   font-weight: 500;
   font-family: var(--ff-secondary);
   border-bottom: 1px solid white;
@@ -655,7 +655,7 @@ Animation keyframes
 }
 
 .left-img-wrap p {
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 400;
   color: #ababab;
   font-family: var(--ff-secondary);
@@ -866,7 +866,7 @@ footer {
 .footer-btm a,
 .footer-btm p {
   font-family: var(--ff-secondary);
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
 }
 
